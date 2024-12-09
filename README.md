@@ -118,10 +118,6 @@ Contributions welcome:
 
 To contribute, open an issue or submit a pull request.
 
-## License
-
-MIT License
-
 ## Contact
 
-For questions or suggestions, please reach out to your-email@example.com or open a GitHub issue.
+For questions or suggestions, please reach out to sulayam@gmail.com or open a GitHub issue.
